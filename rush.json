@@ -331,5 +331,10 @@
   // "allowedProjectTags": [ "tools", "frontend-team", "1.0.0-release" ],
 
   "projects": [
+    {
+      "packageName": "healthy",
+      "projectFolder": "apps/healthy",
+      "shouldPublish": false
+    }
   ]
 }
