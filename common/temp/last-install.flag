@@ -1,0 +1,9 @@
+{
+  "node": "20.9.0",
+  "packageManager": "pnpm",
+  "packageManagerVersion": "8.10.0",
+  "rushJsonFolder": "/home/evanson/Documents/Workspace/terra",
+  "npmrcHash": "ee68e6b827bdf7ec9525260572c6fe6f94909053",
+  "storePath": "/home/evanson/Documents/Workspace/terra/common/temp/pnpm-store",
+  "workspaces": true
+}
