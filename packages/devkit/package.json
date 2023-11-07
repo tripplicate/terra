@@ -1,0 +1,9 @@
+{
+  "name": "@common/devkit",
+  "version": "1.0.0-beta.0",
+  "type": "module",
+  "scripts": {
+    "build": "pnpm typecheck && tsup src/index.ts --format esm,cjs --clean --dts",
+    "typecheck": "tsc --noEmit"
+  }
+}

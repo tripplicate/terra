@@ -5,11 +5,13 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
-    "preview": "vite preview",
-    "lint": "eslint . --fix --cache"
+    "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.3.8"
+    "vue": "^3.3.8",
+    "@vueuse/core": "^10.5.0",
+    "pinia": "^2.1.7",
+    "@unhead/vue": "^1.8.3"
   },
   "devDependencies": {
     "typescript": "^5.2.2",
